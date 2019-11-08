@@ -2,7 +2,7 @@ def square_array(numbers)
   i = 0
   new_arr = []
   
-  while i < numbers.length do 
+  while i < numbers.length 
     
    squared = numbers[i] ** 2
    new_arr << squared
